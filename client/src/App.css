@@ -1,0 +1,5 @@
+/* Cleaned up to remove Vite defaults */
+.main-content {
+  width: 100%;
+  flex: 1;
+}

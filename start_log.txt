@@ -1,0 +1,6 @@
+[dotenv@17.3.1] injecting env (3) from server\.env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+Attempting to connect to MongoDB...
+Server started on port 5000
+MongoDB Connected Successfully
+Create Appointment Error: Appointment validation failed: doctorId: Cast to ObjectId failed for value "" (type string) at path "doctorId" because of "BSONError", doctorName: Path `doctorName` is required.
+Create Appointment Error: Appointment validation failed: doctorId: Cast to ObjectId failed for value "" (type string) at path "doctorId" because of "BSONError", doctorName: Path `doctorName` is required.
